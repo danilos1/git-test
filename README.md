@@ -1,1 +1,1 @@
-# The repo for testing basic Git functionality
+### The repo for testing basic Git functionality
